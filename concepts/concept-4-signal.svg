@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#0A0A0C"/>
+  <g transform="translate(200,170)">
+    <!-- Lightning bolt / electrical signal shape -->
+    <path d="M-5,-90 L-35,-15 L-5,-15 L-45,90 L-10,25 L-40,25 L5,-90 Z" 
+          fill="#1668F7"/>
+    
+    <!-- Subtle muscle flex curve on the right -->
+    <path d="M25,-50 C55,-45 75,-20 70,10 C65,35 45,50 25,55" 
+          stroke="#1668F7" stroke-width="14" fill="none" stroke-linecap="round"/>
+    
+    <!-- Signal waves emanating from top -->
+    <path d="M-25,-90 C-15,-100 15,-100 25,-90" 
+          stroke="#1668F7" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.5"/>
+    <path d="M-35,-100 C-20,-115 20,-115 35,-100" 
+          stroke="#1668F7" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.3"/>
+  </g>
+  <text x="200" y="340" text-anchor="middle" font-family="Arial,sans-serif" font-size="32" font-weight="bold" fill="#FCFBFB" letter-spacing="8">AXONFIT</text>
+</svg>
